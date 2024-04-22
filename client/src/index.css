@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f4ed;
+  line-height: 1.6;
+  overflow-x: hidden;
+  background-image: linear-gradient(to bottom, #f7f4ed, #c7dae1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
